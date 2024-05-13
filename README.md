@@ -1,6 +1,6 @@
 # lakeExtremes
 
-This GitHub repository includes matlab and python code for calculating extreme metrics for 2724 lakes. The generated dataset can be accessed at [Figshare](XX).
+This GitHub repository includes matlab and python code for calculating extreme metrics for 2724 lakes. The generated dataset can be accessed at [Figshare](https://figshare.com/s/d6755addbe4a78a43213).
 
 **Lake Heatwave**
 
